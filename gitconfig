@@ -7,5 +7,5 @@
   log-tree = !"git log-tree-1"
 [net]
   git-fetch-with-cli = true
-[url "git@github.com:"]
-  insteadOf = https://github.com/
+# [url "git@github.com:"]
+#   insteadOf = https://github.com/
